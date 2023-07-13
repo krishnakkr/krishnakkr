@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/krishna_kkr126" target="blank"><img src="https://img.shields.io/twitter/follow/krishna_kkr126?logo=twitter&style=for-the-badge" alt="krishna_kkr126" /></a> </p>
 
-- 🔭 I’m currently working on **SMALL PROJECTS FOR REVISING MY CONCEPTS**
+- 🔭 I’m currently working on **PROJECTS FOR REVISING MY CONCEPTS**
 
 - 🌱 I’m currently learning **JAVA FULL STACK**
 
